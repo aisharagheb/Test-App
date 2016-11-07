@@ -1,0 +1,15 @@
+{
+	"appname": "Test App",
+	"scope": "FullAccess BuyerAdmin BuyerReader DevCenterIntegrationProxyAdmin DevCenterMessageConfigAdmin DevCenterWebHookAdmin BuyerUserReader CreditCardReader PriceScheduleReader PromotionReader SpendingAccountReader UserGroupReader",
+	"clientid": "A6FB740B-AB91-4678-BEB3-5CFBE18CE0D4",
+	"buyerid": "2KPnBnRfN0-anyHGIUCYbQ",
+	"catalogid": "2KPnBnRfN0-anyHGIUCYbQ",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
